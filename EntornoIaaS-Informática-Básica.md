@@ -231,9 +231,9 @@ Con posterioridad a esta práctica, revise esta documentación.
 
 13. Consiga que se pueda subir código desde su máquina virtual hacia su cuenta GitHub sin necesidad de autentificación. 
 Consulte para ello las instrucciones
-[Adding a new SSH key to your GitHub account](https://docs.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account)
+[Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
-14. Cree un directorio `practicas` y  clone en él un repositorio git:
+15. Cree un directorio `practicas` y  clone en él un repositorio git:
 ```
 cd
 mkdir practicas
